@@ -1,6 +1,4 @@
 
-
-
 data_orig = open('ventas_base.db').read.split(',')
 data_10= []
 data_orig.each do |d|
